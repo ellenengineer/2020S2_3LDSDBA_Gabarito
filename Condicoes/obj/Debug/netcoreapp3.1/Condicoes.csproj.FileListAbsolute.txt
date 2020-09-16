@@ -1,0 +1,11 @@
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.exe
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.deps.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.runtimeconfig.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.runtimeconfig.dev.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\bin\Debug\netcoreapp3.1\Condicoes.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.csprojAssemblyReference.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.AssemblyInfoInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.AssemblyInfo.cs
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.pdb
