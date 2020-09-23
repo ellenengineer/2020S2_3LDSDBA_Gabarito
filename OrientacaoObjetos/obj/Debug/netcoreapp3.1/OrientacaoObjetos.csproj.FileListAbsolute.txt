@@ -9,3 +9,5 @@ C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaEx
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\OrientacaoObjetos\bin\Debug\netcoreapp3.1\OrientacaoObjetos.pdb
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.dll
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\OrientacaoObjetos\obj\Debug\netcoreapp3.1\OrientacaoObjetos.genruntimeconfig.cache

@@ -9,3 +9,5 @@ C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaEx
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

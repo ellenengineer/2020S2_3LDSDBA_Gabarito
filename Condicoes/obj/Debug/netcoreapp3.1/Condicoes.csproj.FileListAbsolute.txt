@@ -9,3 +9,5 @@ C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaEx
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.AssemblyInfo.cs
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.dll
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Condicoes\obj\Debug\netcoreapp3.1\Condicoes.genruntimeconfig.cache

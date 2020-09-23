@@ -9,3 +9,5 @@ C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaEx
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
 C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache

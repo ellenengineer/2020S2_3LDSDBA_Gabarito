@@ -31,49 +31,51 @@ namespace OrientacaoObjetos
 
             Console.WriteLine(objPessoa.Nome + " mora em " + objPessoa.Endereco.Consultar());
 
-            /* //Criar uma Coleção de Endereços vinculados a Pessoa
-             //, usando uma das classes vista em sala de aula
-             //Criar uma coleção de Pessoas usando Dictionary<key, value> ou List<T>
+            //Criar uma Coleção de Endereços vinculados a PessoaFisica
+            //, usando uma das classes do nampespace System.Collection.Generic, vistas em aula
+            //Criar uma coleção de Pessoas usando Dictionary<key, value> ou List<T>
 
-             PessoaFisica objPF = new PessoaFisica();
-             objPF.CPF = "9999999999";
-             objPF.ID = 1;
-             objPF.Nome = "Ellen";
-             objPF.Endereco = new clsEndereco();
-             objPF.Endereco.ID = 1;
-             objPF.Endereco.Cidade = "São Bernardo";
-             objPF.Endereco.Tipo = TipoEndereco.Residencial;
+            PessoaFisica objPF = new PessoaFisica();
+            objPF.CPF = "9999999999";
+            objPF.DtNascFund = new DateTime(1986, 01, 28);
+            objPF.ID = 1;
+            objPF.Nome = "Ellen";
+            objPF.Endereco = new clsEndereco();
+            objPF.Endereco.ID = 1;
+            objPF.Endereco.Cidade = "São Bernardo";
+            objPF.Endereco.Tipo = TipoEndereco.Residencial;
 
-             objPF.ListaEnderecos = new System.Collections.Generic.List<clsEndereco>();
-             objPF.ListaEnderecos.Add(objPF.Endereco);
+            objPF.ListaEnderecos = new List<clsEndereco>();
+            objPF.ListaEnderecos.Add(objPF.Endereco);
 
-             objPF.Endereco = new clsEndereco();
-             objPF.Endereco.ID = 2;
-             objPF.Endereco.Cidade = "Santo Andre";
-             objPF.Endereco.Tipo = TipoEndereco.Comercial;
+            objPF.Endereco = new clsEndereco();
+            objPF.Endereco.ID = 2;
+            objPF.Endereco.Cidade = "Santo Andre";
+            objPF.Endereco.Tipo = TipoEndereco.Comercial;
 
-             objPF.ListaEnderecos.Add(objPF.Endereco);
+            objPF.ListaEnderecos.Add(objPF.Endereco);
 
-             Console.WriteLine(objPF.Nome + " tem os seguintes enderecos: ");
-             foreach (var end in objPF.ListaEnderecos)
-             {
-                 Console.WriteLine(end.Cidade);
-             }
+            Console.WriteLine(objPF.Nome + " tem os seguintes enderecos: ");
+            foreach (var end in objPF.ListaEnderecos)
+            {
+                Console.WriteLine(end.Cidade);
+            }
 
-             List<PessoaFisica> listaPEssoas = new List<PessoaFisica>();
-             listaPEssoas.Add(objPF);
+            List<PessoaFisica> listaPEssoas = new List<PessoaFisica>();
+            listaPEssoas.Add(objPF);
 
-             PessoaFisica objPF1 = new PessoaFisica();
-             objPF1.CPF = "111111111";
-             objPF1.ID = 2;
-             objPF1.Nome = "Fulano";
+            PessoaFisica objPF1 = new PessoaFisica();
+            objPF1.CPF = "111111111";
+            objPF1.ID = 2;
+            objPF1.DtNascFund = new DateTime(1999, 12, 31);
+            objPF1.Nome = "Fulano";
 
-             listaPEssoas.Add(objPF1);
+            listaPEssoas.Add(objPF1);
 
-             foreach (var pessoa in listaPEssoas)
-             {
-                 Console.WriteLine(pessoa.Nome + " CPF : " + pessoa.CPF);
-             }*/
+            foreach (var pessoa in listaPEssoas)
+            {
+                Console.WriteLine(pessoa.Nome + " Data de Nascimento : " + pessoa.DtNascFund);
+            }
 
             Console.ReadLine();
 
