@@ -1,0 +1,13 @@
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.exe
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.deps.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.dev.json
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\bin\Debug\netcoreapp3.1\Streams.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.csprojAssemblyReference.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfoInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfo.cs
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.csproj.CoreCompileInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.dll
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.pdb
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\Streams\obj\Debug\netcoreapp3.1\Streams.genruntimeconfig.cache

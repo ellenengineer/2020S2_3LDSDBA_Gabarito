@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{29BCBF24-3C6A-43A6-8951-2D1B61AE727E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variaveis", "Variaveis\Variaveis.csproj", "{29BCBF24-3C6A-43A6-8951-2D1B61AE727E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicoes", "Condicoes\Condicoes.csproj", "{C1B7EC95-D40E-4567-8984-85DC3F73C748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicoes", "Condicoes\Condicoes.csproj", "{C1B7EC95-D40E-4567-8984-85DC3F73C748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{25980170-5E11-4A76-9A41-7B774AE70077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores", "Vetores\Vetores.csproj", "{25980170-5E11-4A76-9A41-7B774AE70077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{8E2C3CA4-63F0-44BC-A19E-74BFBA71B8B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{8E2C3CA4-63F0-44BC-A19E-74BFBA71B8B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{FDE0DA22-A543-48B8-A2D9-6B30E504E941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{FDE0DA22-A543-48B8-A2D9-6B30E504E941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{AF50D7CB-8424-4862-B107-F290FD4182DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{FDE0DA22-A543-48B8-A2D9-6B30E504E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDE0DA22-A543-48B8-A2D9-6B30E504E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDE0DA22-A543-48B8-A2D9-6B30E504E941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,5 +12,15 @@ namespace OrientacaoObjetos
         public string Sexo { get; set; }
 
         public List<clsEndereco> ListaEnderecos { get; set; }
+
+        public PessoaFisica()
+        {
+
+        }
+        public PessoaFisica(string _nome, DateTime _dataNascimento)
+        {
+            this.Nome = _nome;
+            this.DtNascFund = _dataNascimento;
+        }
     }
 }
