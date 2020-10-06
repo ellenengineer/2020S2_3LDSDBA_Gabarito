@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{FDE0DA22-A543-48B8-A2D9-6B30E504E941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception", "Exception\Exception.csproj", "{1C1DF7B0-FF6D-485C-9F68-562FBCD713DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "Streams\Streams.csproj", "{AF50D7CB-8424-4862-B107-F290FD4182DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Streams", "Streams\Streams.csproj", "{AF50D7CB-8424-4862-B107-F290FD4182DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{37129C15-9C38-477A-8BBF-A5F1B94AA782}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF50D7CB-8424-4862-B107-F290FD4182DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37129C15-9C38-477A-8BBF-A5F1B94AA782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37129C15-9C38-477A-8BBF-A5F1B94AA782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37129C15-9C38-477A-8BBF-A5F1B94AA782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37129C15-9C38-477A-8BBF-A5F1B94AA782}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
