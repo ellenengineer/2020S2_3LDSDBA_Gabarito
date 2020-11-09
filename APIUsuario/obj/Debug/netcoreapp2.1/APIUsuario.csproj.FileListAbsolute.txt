@@ -1,0 +1,4 @@
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\APIUsuario\obj\Debug\netcoreapp2.1\APIUsuario.csprojAssemblyReference.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\APIUsuario\obj\Debug\netcoreapp2.1\APIUsuario.AssemblyInfoInputs.cache
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\APIUsuario\obj\Debug\netcoreapp2.1\APIUsuario.AssemblyInfo.cs
+C:\Users\drumm\OneDrive\Documentos\Fapen\2020S2_3LDSDBA\Código\Gabarito_ListaExercicios\Gabarito\APIUsuario\obj\Debug\netcoreapp2.1\APIUsuario.csproj.CoreCompileInputs.cache
