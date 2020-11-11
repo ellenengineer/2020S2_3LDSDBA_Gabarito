@@ -69,7 +69,7 @@ namespace APIUsuario.Controllers
             else
             {
                 UsuarioBL usuBL = new UsuarioBL();
-                Usuario usuario = new Usuario("ellen");
+                Usuario usuario = new Usuario();
                 usuario.ID = id;
                 return new string[] { usuBL.InativarUsuario(usuario) };
 
